@@ -31,4 +31,8 @@ LeetCode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nik1510/Leetcode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Nik1510/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
