@@ -1,12 +1,17 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int count =1;
-        for(int i=1; i<nums.length;i++){
-            if(nums[i]!=nums[i-1]){
-                nums[count] = nums[i];
-                count++;
-            }
+        // i will always point to unqiue element 
+        // and j will get the unqiue element from the array and give it to i 
+       int i=0; int j =1;
+       while(j<nums.length){
+        if(nums[i]!=nums[j]){
+            // got a unique element 
+            // i will make space
+            i++;
+            nums[i]=nums[j];
         }
-        return count ;
+        j++;
+       }
+       return (i+1);
     }
 }
