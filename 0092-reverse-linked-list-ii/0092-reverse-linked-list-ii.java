@@ -10,41 +10,39 @@
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if(left == right ){
-            return head; // nothing to reverse
+        // chek if there will be reversal
+        if(left == right){
+            return head;
         }
-        ListNode prev = null;
         ListNode current = head;
-        // bringing the current to l-1
-        for(int i=0; i<left-1 && current!=null;i++){
-            prev = current; // updating the prev node and conneting to the original linkedList
-            current = current.next; // updating the current node 
+        ListNode prev = null;
+        // bringing current to left node and prev to left-1
+        for(int i=0;current!=null && i<left-1 ;i++ ){
+            prev = current;
+            current = current.next ;
         }
-        // at the next of loop current pointer will be at Left 
-        // and prev pointer will be before the current pointer
-
-        // reversing the linkedlist
-        ListNode last = prev; // the left-1 node is saved to last
-        ListNode newEnd = current; // the current will be the newEnd
+        // current comes to left 
+        // prev comes to left -1
+        ListNode last = prev;
+        ListNode newEnd = current;
         ListNode next = current.next;
 
-        for(int i=0; current != null && i<(right-left+1)  ; i++){
-            current.next = prev; // saving the node before breaking the linkage 
-            prev = current ; //
+        for(int i=0; i<right -left+1 && current!= null ; i++){
+            current.next = prev;
+            prev = current;
             current = next;
-            if(next!= null){
+            if(next != null){
                 next = next.next;
             }
         }
-        // linkedList Reversed
+        // list is reversed between left and right 
 
-        if(last!=null){
-            last.next = prev; // reversing is between the list
+        if(last!= null){
+            last.next = prev;
+        }else{
+            head = prev;
         }
-        else{
-            head = prev; // start of the node 
-        }
-        newEnd.next =current; // current is pointing to last node , so now i am pointing the newEnd.next = current 
+        newEnd.next = current ;
         return head;
     }
 }
