@@ -9,27 +9,26 @@
  * }
  */
 class Solution {
-    public ListNode Middle(ListNode head){
-        ListNode  f= head;
-        ListNode s = head;
-        while(f!=null && f.next!=null){
-             s = s.next;
-             f = f.next.next;
+    public ListNode Mid(ListNode head){
+        ListNode fast = head;
+        ListNode slow = head;
+        while(fast!= null && fast.next!= null){
+            fast = fast.next.next;
+            slow= slow.next;
         }
-        return s;
+        return slow;
     }
-    public ListNode Rev(ListNode head){
+    public ListNode reverse(ListNode head){
         if(head==null){
             return head;
         }
         ListNode prev = null;
-        ListNode present = head;
-        ListNode next = present.next;
-
-        while(present!=null){
-            present.next = prev;
-            prev =present;
-            present =next;
+        ListNode current = head;
+        ListNode next = current.next;
+        while(current!=null  ){
+            current.next = prev;
+            prev = current;
+            current = next;
             if(next!=null){
                 next = next.next;
             }
@@ -37,21 +36,19 @@ class Solution {
         return prev;
     }
     public boolean isPalindrome(ListNode head) {
-        ListNode mid = Middle(head);
-        ListNode headSecond = Rev(mid) ;
-        ListNode reReverse = headSecond;
-
-        // Now compare both list
-
-        while(head!=null && headSecond!=null){
-            if(head.val != headSecond.val){
-                break;
+        // first find mid 
+        // reverse the linked list from middle
+        ListNode m = Mid(head);
+        ListNode headSecond = reverse(m);
+        ListNode Rereverse = headSecond; // at the end it will be useful to reReverse the LinkedList
+        while(head!= null && headSecond != null){
+            if(head.val!=headSecond.val){
+                return false;
             }
-            head = head.next;
-            headSecond =headSecond.next;
+            head= head.next;
+            headSecond = headSecond.next;
         }
-        Rev(reReverse);
-    return head==null||headSecond ==null;
-
+        reverse(Rereverse);
+        return head ==null || headSecond==null;
     }
 }
