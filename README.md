@@ -10,6 +10,7 @@ LeetCode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nik1510/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nik1510/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nik1510/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nik1510/Leetcode/tree/master/0007-reverse-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
