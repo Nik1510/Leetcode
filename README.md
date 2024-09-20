@@ -5,6 +5,7 @@ LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nik1510/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nik1510/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nik1510/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -65,6 +66,7 @@ LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nik1510/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Nik1510/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
