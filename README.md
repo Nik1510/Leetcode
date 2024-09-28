@@ -45,6 +45,7 @@ LeetCode problems
 | [0141-linked-list-cycle](https://github.com/Nik1510/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -83,6 +84,7 @@ LeetCode problems
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Nik1510/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Number Theory
 |  |
 | ------- |
@@ -103,6 +105,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
