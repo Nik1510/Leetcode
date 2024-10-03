@@ -28,6 +28,7 @@ LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nik1510/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nik1510/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nik1510/Leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
@@ -58,6 +59,7 @@ LeetCode problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nik1510/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nik1510/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nik1510/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Nik1510/Leetcode/tree/master/0061-rotate-list) |
@@ -77,6 +79,7 @@ LeetCode problems
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nik1510/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Nik1510/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nik1510/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Nik1510/Leetcode/tree/master/0143-reorder-list) |
