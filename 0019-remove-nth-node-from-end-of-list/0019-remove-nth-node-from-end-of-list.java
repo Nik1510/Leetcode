@@ -10,23 +10,20 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode right = dummy;
-        ListNode left = dummy;
+        ListNode dummyHead = new ListNode (0);
+        dummyHead.next=head;
+        ListNode left = dummyHead;
+        ListNode right = dummyHead;
 
-        // brought the pointer to n 
-        for(int i=0;i<n;i++){
-            right=right.next;
+        // bringing the right pointer to n nodes ahead
+        for(int i =0; i<n;i++){
+            right = right.next;
         }
-        
-
-        // mainting the differnce between left and right ptr
         while(right.next!=null){
             left = left.next;
             right = right.next;
         }
         left.next = left.next.next;
-        return dummy.next;
+        return dummyHead.next;
     }
 }
