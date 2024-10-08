@@ -55,12 +55,14 @@ LeetCode problems
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nik1510/Leetcode/tree/master/0011-container-with-most-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Linked List
 |  |
 | ------- |
@@ -108,6 +110,7 @@ LeetCode problems
 | [0143-reorder-list](https://github.com/Nik1510/Leetcode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Nik1510/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
@@ -131,6 +134,7 @@ LeetCode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nik1510/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
