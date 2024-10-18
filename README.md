@@ -39,6 +39,7 @@ LeetCode problems
 | [0002-add-two-numbers](https://github.com/Nik1510/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nik1510/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nik1510/Leetcode/tree/master/0009-palindrome-number) |
+| [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2556-convert-the-temperature](https://github.com/Nik1510/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -94,6 +95,7 @@ LeetCode problems
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -189,4 +191,12 @@ LeetCode problems
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Nik1510/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
