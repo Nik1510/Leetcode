@@ -63,6 +63,7 @@ LeetCode problems
 | [0160-intersection-of-two-linked-lists](https://github.com/Nik1510/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -99,6 +100,7 @@ LeetCode problems
 | [0237-delete-node-in-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
