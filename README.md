@@ -22,6 +22,7 @@ LeetCode problems
 | [1552-build-an-array-with-stack-operations](https://github.com/Nik1510/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/Nik1510/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nik1510/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nik1510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3429-special-array-i](https://github.com/Nik1510/Leetcode/tree/master/3429-special-array-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Nik1510/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -70,6 +71,7 @@ LeetCode problems
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nik1510/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3195-separate-black-and-white-balls](https://github.com/Nik1510/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
