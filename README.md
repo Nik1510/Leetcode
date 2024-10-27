@@ -48,6 +48,7 @@ LeetCode problems
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2556-convert-the-temperature](https://github.com/Nik1510/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@ LeetCode problems
 | [0908-middle-of-the-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -145,6 +147,7 @@ LeetCode problems
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
