@@ -52,6 +52,7 @@ LeetCode problems
 | [0002-add-two-numbers](https://github.com/Nik1510/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nik1510/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nik1510/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -190,6 +191,7 @@ LeetCode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nik1510/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Nik1510/Leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Nik1510/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -218,11 +220,13 @@ LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Nik1510/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
