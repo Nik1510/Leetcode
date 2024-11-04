@@ -203,6 +203,7 @@ LeetCode problems
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Nik1510/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/Nik1510/Leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
 | ------- |
