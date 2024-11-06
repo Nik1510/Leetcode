@@ -4,7 +4,7 @@ class Solution {
         int n = s2.length();
 
         if (n == 0) {
-            return 0; // If s2 is empty, return 0
+            return 0; 
         }
 
         for (int i = 0; i <= (m - n); i++) {
@@ -13,7 +13,7 @@ class Solution {
                     break;
                 }
                 if (j == n - 1) {
-                    return i; // Match found, return index
+                    return i; 
                 }
             }
         }
