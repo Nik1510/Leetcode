@@ -26,6 +26,7 @@ LeetCode problems
 | [1552-build-an-array-with-stack-operations](https://github.com/Nik1510/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/Nik1510/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/Nik1510/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nik1510/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
