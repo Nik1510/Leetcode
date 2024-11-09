@@ -228,6 +228,7 @@ LeetCode problems
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
+| [3394-minimum-array-end](https://github.com/Nik1510/Leetcode/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
 | ------- |
