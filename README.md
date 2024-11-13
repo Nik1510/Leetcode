@@ -32,6 +32,7 @@ LeetCode problems
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nik1510/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nik1510/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nik1510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3429-special-array-i](https://github.com/Nik1510/Leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nik1510/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -46,6 +47,7 @@ LeetCode problems
 | [0792-binary-search](https://github.com/Nik1510/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nik1510/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nik1510/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +94,7 @@ LeetCode problems
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nik1510/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nik1510/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Nik1510/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -252,6 +255,7 @@ LeetCode problems
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nik1510/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Data Stream
 |  |
 | ------- |
