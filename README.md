@@ -27,6 +27,7 @@ LeetCode problems
 | [1552-build-an-array-with-stack-operations](https://github.com/Nik1510/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/Nik1510/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nik1510/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1755-defuse-the-bomb](https://github.com/Nik1510/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nik1510/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -289,5 +290,6 @@ LeetCode problems
 ## Sliding Window
 |  |
 | ------- |
+| [1755-defuse-the-bomb](https://github.com/Nik1510/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nik1510/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
