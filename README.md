@@ -159,6 +159,7 @@ LeetCode problems
 | [0141-linked-list-cycle](https://github.com/Nik1510/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nik1510/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nik1510/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Nik1510/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -203,6 +204,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Nik1510/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/Nik1510/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## String
 |  |
@@ -210,6 +212,7 @@ LeetCode problems
 | [0020-valid-parentheses](https://github.com/Nik1510/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Nik1510/Leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Nik1510/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -292,4 +295,8 @@ LeetCode problems
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Nik1510/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nik1510/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
