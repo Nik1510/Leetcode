@@ -23,6 +23,7 @@ LeetCode problems
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nik1510/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nik1510/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Nik1510/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1677-matrix-diagonal-sum](https://github.com/Nik1510/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -162,6 +163,7 @@ LeetCode problems
 | [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Nik1510/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nik1510/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -299,4 +301,5 @@ LeetCode problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
