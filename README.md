@@ -22,6 +22,7 @@ LeetCode problems
 | [0792-binary-search](https://github.com/Nik1510/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nik1510/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -69,6 +70,7 @@ LeetCode problems
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2556-convert-the-temperature](https://github.com/Nik1510/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -306,4 +308,8 @@ LeetCode problems
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
