@@ -12,6 +12,7 @@ LeetCode problems
 | [0027-remove-element](https://github.com/Nik1510/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Nik1510/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nik1510/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/Nik1510/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -60,6 +61,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nik1510/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Nik1510/Leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +243,7 @@ LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nik1510/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Nik1510/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
