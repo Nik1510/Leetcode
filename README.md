@@ -120,6 +120,7 @@ LeetCode problems
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nik1510/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3195-separate-black-and-white-balls](https://github.com/Nik1510/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
@@ -236,6 +237,7 @@ LeetCode problems
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nik1510/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nik1510/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Nik1510/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Nik1510/Leetcode/tree/master/3451-string-compression-iii) |
@@ -251,6 +253,7 @@ LeetCode problems
 | [0392-is-subsequence](https://github.com/Nik1510/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nik1510/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Memoization
 |  |
 | ------- |
