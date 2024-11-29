@@ -222,6 +222,7 @@ LeetCode problems
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Nik1510/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Nik1510/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
