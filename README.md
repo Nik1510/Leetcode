@@ -234,6 +234,7 @@ LeetCode problems
 | [0392-is-subsequence](https://github.com/Nik1510/Leetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Nik1510/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Nik1510/Leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nik1510/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Nik1510/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nik1510/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -253,6 +254,7 @@ LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Nik1510/Leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nik1510/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
