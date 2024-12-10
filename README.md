@@ -74,6 +74,7 @@ LeetCode problems
 | [0009-palindrome-number](https://github.com/Nik1510/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Nik1510/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Nik1510/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -237,6 +238,7 @@ LeetCode problems
 | [0032-longest-valid-parentheses](https://github.com/Nik1510/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nik1510/Leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Nik1510/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Nik1510/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Nik1510/Leetcode/tree/master/0392-is-subsequence) |
