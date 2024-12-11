@@ -43,6 +43,7 @@ LeetCode problems
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nik1510/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nik1510/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nik1510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Nik1510/Leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nik1510/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nik1510/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -186,6 +187,7 @@ LeetCode problems
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nik1510/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nik1510/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Stack
 |  |
@@ -344,6 +346,7 @@ LeetCode problems
 | [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nik1510/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
 ## Geometry
 |  |
 | ------- |
