@@ -19,6 +19,7 @@ LeetCode problems
 | [0152-maximum-product-subarray](https://github.com/Nik1510/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Nik1510/Leetcode/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/Nik1510/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Nik1510/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
@@ -76,6 +77,7 @@ LeetCode problems
 | [0050-powx-n](https://github.com/Nik1510/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Nik1510/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Nik1510/Leetcode/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/Nik1510/Leetcode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -98,6 +100,7 @@ LeetCode problems
 | [0142-linked-list-cycle-ii](https://github.com/Nik1510/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nik1510/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nik1510/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Nik1510/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Nik1510/Leetcode/tree/master/0392-is-subsequence) |
