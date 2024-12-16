@@ -48,6 +48,7 @@ LeetCode problems
 | [3429-special-array-i](https://github.com/Nik1510/Leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nik1510/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nik1510/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nik1510/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Nik1510/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ LeetCode problems
 | [2556-convert-the-temperature](https://github.com/Nik1510/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nik1510/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -302,6 +304,7 @@ LeetCode problems
 | [2232-adding-spaces-to-a-string](https://github.com/Nik1510/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nik1510/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -379,4 +382,8 @@ LeetCode problems
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nik1510/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nik1510/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
