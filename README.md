@@ -23,6 +23,7 @@ LeetCode problems
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Nik1510/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Nik1510/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -130,6 +131,7 @@ LeetCode problems
 | [0011-container-with-most-water](https://github.com/Nik1510/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Nik1510/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Nik1510/Leetcode/tree/master/0455-assign-cookies) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nik1510/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nik1510/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -204,6 +206,7 @@ LeetCode problems
 | [0155-min-stack](https://github.com/Nik1510/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Nik1510/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nik1510/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Nik1510/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -313,6 +316,7 @@ LeetCode problems
 | [0164-maximum-gap](https://github.com/Nik1510/Leetcode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Nik1510/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Nik1510/Leetcode/tree/master/0455-assign-cookies) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -333,6 +337,7 @@ LeetCode problems
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nik1510/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nik1510/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
