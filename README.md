@@ -27,6 +27,7 @@ LeetCode problems
 | [0792-binary-search](https://github.com/Nik1510/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1137-height-checker](https://github.com/Nik1510/Leetcode/tree/master/1137-height-checker) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nik1510/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -318,6 +319,7 @@ LeetCode problems
 | [0242-valid-anagram](https://github.com/Nik1510/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Nik1510/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1137-height-checker](https://github.com/Nik1510/Leetcode/tree/master/1137-height-checker) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -403,4 +405,8 @@ LeetCode problems
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nik1510/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Nik1510/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
