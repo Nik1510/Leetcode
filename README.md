@@ -26,6 +26,7 @@ LeetCode problems
 | [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Nik1510/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/Nik1510/Leetcode/tree/master/1137-height-checker) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -113,6 +114,7 @@ LeetCode problems
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Nik1510/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nik1510/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Nik1510/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -319,6 +321,7 @@ LeetCode problems
 | [0242-valid-anagram](https://github.com/Nik1510/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Nik1510/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Nik1510/Leetcode/tree/master/1137-height-checker) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
