@@ -42,6 +42,7 @@ LeetCode problems
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nik1510/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nik1510/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Nik1510/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/Nik1510/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -419,4 +420,8 @@ LeetCode problems
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Nik1510/Leetcode/tree/master/1137-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/Nik1510/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
