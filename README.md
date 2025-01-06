@@ -30,6 +30,7 @@ LeetCode problems
 | [1041-available-captures-for-rook](https://github.com/Nik1510/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/Nik1510/Leetcode/tree/master/1137-height-checker) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Nik1510/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nik1510/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
