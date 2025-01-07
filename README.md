@@ -35,6 +35,7 @@ LeetCode problems
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nik1510/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Nik1510/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Nik1510/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nik1510/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -275,6 +276,7 @@ LeetCode problems
 | [1078-remove-outermost-parentheses](https://github.com/Nik1510/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nik1510/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nik1510/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1524-string-matching-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nik1510/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nik1510/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nik1510/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -292,6 +294,7 @@ LeetCode problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Nik1510/Leetcode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nik1510/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
