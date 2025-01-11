@@ -48,6 +48,7 @@ LeetCode problems
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/Nik1510/Leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nik1510/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Nik1510/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nik1510/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/Nik1510/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -289,6 +290,7 @@ LeetCode problems
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nik1510/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Nik1510/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nik1510/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
@@ -302,6 +304,7 @@ LeetCode problems
 | [0812-rotate-string](https://github.com/Nik1510/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nik1510/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Nik1510/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
