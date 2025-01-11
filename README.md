@@ -153,6 +153,7 @@ LeetCode problems
 | [0780-max-chunks-to-make-sorted](https://github.com/Nik1510/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nik1510/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nik1510/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/Nik1510/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Nik1510/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nik1510/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -211,6 +212,7 @@ LeetCode problems
 | [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/Nik1510/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Nik1510/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1502-construct-k-palindrome-strings](https://github.com/Nik1510/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nik1510/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2486-most-frequent-even-element](https://github.com/Nik1510/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -283,6 +285,7 @@ LeetCode problems
 | [1078-remove-outermost-parentheses](https://github.com/Nik1510/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Nik1510/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nik1510/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/Nik1510/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nik1510/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nik1510/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -392,6 +395,7 @@ LeetCode problems
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nik1510/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/Nik1510/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Nik1510/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
