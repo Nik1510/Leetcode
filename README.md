@@ -56,6 +56,7 @@ LeetCode problems
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Nik1510/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nik1510/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nik1510/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nik1510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nik1510/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
@@ -218,6 +219,7 @@ LeetCode problems
 | [2486-most-frequent-even-element](https://github.com/Nik1510/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nik1510/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nik1510/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Stack
@@ -329,6 +331,7 @@ LeetCode problems
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/Nik1510/Leetcode/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nik1510/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/Nik1510/Leetcode/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
