@@ -16,6 +16,7 @@ LeetCode problems
 | [0035-search-insert-position](https://github.com/Nik1510/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Nik1510/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nik1510/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nik1510/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Nik1510/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Nik1510/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nik1510/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -87,6 +88,7 @@ LeetCode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nik1510/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Nik1510/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nik1510/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -417,6 +419,7 @@ LeetCode problems
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nik1510/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nik1510/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nik1510/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nik1510/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nik1510/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Nik1510/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nik1510/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -443,6 +446,7 @@ LeetCode problems
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nik1510/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nik1510/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nik1510/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nik1510/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nik1510/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Nik1510/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nik1510/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -471,4 +475,8 @@ LeetCode problems
 | [0560-subarray-sum-equals-k](https://github.com/Nik1510/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nik1510/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nik1510/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nik1510/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
