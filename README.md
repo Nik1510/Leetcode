@@ -283,6 +283,7 @@ LeetCode problems
 | [0020-valid-parentheses](https://github.com/Nik1510/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nik1510/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Nik1510/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Nik1510/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nik1510/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nik1510/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Nik1510/Leetcode/tree/master/0168-excel-sheet-column-title) |
