@@ -107,6 +107,7 @@ LeetCode problems
 | [1013-fibonacci-number](https://github.com/Nik1510/Leetcode/tree/master/1013-fibonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Nik1510/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nik1510/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nik1510/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2556-convert-the-temperature](https://github.com/Nik1510/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -343,6 +344,7 @@ LeetCode problems
 | [0287-find-the-duplicate-number](https://github.com/Nik1510/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/Nik1510/Leetcode/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/Nik1510/Leetcode/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nik1510/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Nik1510/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Nik1510/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3394-minimum-array-end](https://github.com/Nik1510/Leetcode/tree/master/3394-minimum-array-end) |
