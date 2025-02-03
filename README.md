@@ -67,6 +67,7 @@ LeetCode problems
 | [2876-number-of-employees-who-met-the-target](https://github.com/Nik1510/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Nik1510/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nik1510/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Nik1510/Leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Nik1510/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nik1510/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
