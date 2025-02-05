@@ -229,6 +229,7 @@ LeetCode problems
 | [0782-jewels-and-stones](https://github.com/Nik1510/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nik1510/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nik1510/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nik1510/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2486-most-frequent-even-element](https://github.com/Nik1510/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Nik1510/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -307,6 +308,7 @@ LeetCode problems
 | [1524-string-matching-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nik1510/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nik1510/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nik1510/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nik1510/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nik1510/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Nik1510/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -421,6 +423,7 @@ LeetCode problems
 | [1341-split-a-string-in-balanced-strings](https://github.com/Nik1510/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/Nik1510/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nik1510/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nik1510/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Nik1510/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [3324-split-the-array](https://github.com/Nik1510/Leetcode/tree/master/3324-split-the-array) |
 ## Geometry
