@@ -263,6 +263,7 @@ LeetCode problems
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nik1510/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3447-clear-digits](https://github.com/Nik1510/Leetcode/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -322,6 +323,7 @@ LeetCode problems
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/Nik1510/Leetcode/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nik1510/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Nik1510/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/Nik1510/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Nik1510/Leetcode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
@@ -368,6 +370,7 @@ LeetCode problems
 | [2232-adding-spaces-to-a-string](https://github.com/Nik1510/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Nik1510/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Nik1510/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Nik1510/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nik1510/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
